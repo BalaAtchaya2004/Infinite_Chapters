@@ -30,7 +30,7 @@ const Header = () => {
               marginBottom: 50,
               color: "#333",
               textAlign: "center",
-              // fontWeight: "bold", //No need of bold because headings are itself bold
+            
               textShadow: "2px 2px 3px #b0b0b0",
             }}
           >
