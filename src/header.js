@@ -1,5 +1,5 @@
 import React from "react";
-import GithubLogo from "./img/Github.svg";
+
 import "../src/sass/style.css";
 
 const Header = () => {
