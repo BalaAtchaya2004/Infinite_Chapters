@@ -26,7 +26,7 @@ const Header = () => {
             className="heading-name"
             style={{
               background: "none",
-              // borderRadius: "1rem",
+
               marginBottom: 50,
               color: "#333",
               textAlign: "center",
