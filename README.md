@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 align = "center">Infinite Chapters</h2>
-  <h4 align = "center">A Book Finder app built with React and the Google Books API.</h4>
+  <h4 align = "center">A Book Finder app built with React that utilizes the Google Books API for fetching books..</h4>
 
  
 </div>
