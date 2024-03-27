@@ -24,6 +24,8 @@ git clone https://github.com/BalaAtchaya2004/Infinite_Chapters
  3. Builds the app for production to the build folder: ```npm run build```
 
 
-![Project Screenshot](./client/src/assets/Screenshot1.png)
+![Project Screenshot](./src/img/1.png)
+
+![Project Screenshot](./src/img/2.png)
 
 
