@@ -15,7 +15,7 @@
 
 ### Clone this repository
 ```bash
-git clone https://github.com/BalaAtchaya2004/Infinite_Chapters
+git clone https://github.com/Balaatchayar/Infinite_Chapters
 ```
 
 ### Installation
